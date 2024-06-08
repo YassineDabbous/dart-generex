@@ -1,0 +1,1 @@
+A command-line tool that generate dart code from a Schema file & templates.
